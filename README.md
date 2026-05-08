@@ -1,2 +1,0 @@
-# Humanity-Contained
-HC TCG 
